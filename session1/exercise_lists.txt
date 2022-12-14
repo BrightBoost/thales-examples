@@ -1,0 +1,8 @@
+Create a lists of your five favorite: movies/series, pizza toppings, http status codes, pets
+Sort the http status codes in reverse order.
+Remove your least favorite pizza topping.
+Add another favorite pet.
+Clear your least favorite list
+Concatenate the content of all lists in the cleared list
+Calculate the total number of list items
+
