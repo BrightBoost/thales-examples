@@ -1,0 +1,7 @@
+Maak een lijst van bedrijven
+Een bedrijf is een dictionary met de volgende key-value pairs:
+- naam
+- telefoonnummer
+- dictionary van adressen, key is het type adres, bezoekadres, postadres, etc, en adres is een dictionary
+- adres is een dictionary, met key value pairs
+- lijst met activiteiten, bijv code schrijven, consultancy, etc
