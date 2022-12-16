@@ -1,0 +1,12 @@
+import re
+
+# meer dan 1 character, eerste moet letter zijn, daarna alphanumeriek
+# @
+# meer dan 1 character, eerste moet letter zijn, daarna alphanumeriek
+# punt
+# meer dan 1 character a-z
+mail_regex = r"[a-zA-Z][a-zA-Z0-9_.-]+@[a-zA-Z][a-zA-Z0-9_.-]+.[a-zA-Z][a-zA-Z0-9]+"
+
+with open("data.txt") as file:
+    for line in file:
+        print(re.findall(mail_regex, line))
