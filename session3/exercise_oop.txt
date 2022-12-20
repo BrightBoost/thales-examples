@@ -1,0 +1,6 @@
+1. Create three classes: shape, square, circle
+2. One should be the base class, choose the logical One
+3. One should be abstract, choose a logical One
+3. a Give a specific attribute to the non-abstract classes
+4. All classes should have an attribute surface and a method calc circumference
+5. calc circumference should be abstract in Shape
