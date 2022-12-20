@@ -1,0 +1,23 @@
+Write a test function that tests the behavior of the following function:
+
+def add(x, y):
+    return x + y
+
+Your test function should test the add function with a variety of input values and verify that the output is correct.
+
+
+2. Write a test function that tests the behavior of the following function:
+
+def divide(x, y):
+    return x / y
+
+Use a test fixture to set up a known state for the test, and then use the divide function to test the behavior of the function.
+
+
+3. Write a test function that tests the behavior of the following function:
+def calculate_mean(values):
+    return sum(values) / len(values)
+    
+Use the parametrize decorator to define multiple sets of arguments for the test function, and then use the calculate_mean function to test the behavior of the function with each set of arguments.
+
+
