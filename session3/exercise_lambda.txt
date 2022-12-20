@@ -1,0 +1,6 @@
+Write a lambda function that takes a single argument x and returns x squared.
+Write a lambda function that takes two arguments x and y and returns the maximum of x and y.
+Write a lambda function that takes a list of numbers and returns a new list with the elements in the original list squared, but only if the element is even.
+Write a function that takes a list of numbers and returns a new list with only the even numbers from the original list. Use the filter function to accomplish this.
+Write a function that takes a list of strings and returns a new list with all of the strings in upper case. Use the map function to accomplish this.
+Write a function that takes a list of numbers and returns a new list with only the numbers that are divisible by both 3 and 4. Use the filter function to accomplish this.
