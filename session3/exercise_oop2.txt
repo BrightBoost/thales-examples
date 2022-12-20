@@ -1,0 +1,5 @@
+1. Create three classes: vehicle, bike and car
+2. Give the abstract class Vehicle two logical abstract methods
+3. Give vehicle 2 attributes
+4. Give bike and car both a specific attribute and method for their type
+5. Create a bike and car, call the methods
